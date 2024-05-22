@@ -1,24 +1,3 @@
 {
-  "products": [
-    {
-      "title": "Mochila NIKEEE",
-      "id": "75e2"
-    },
-    {
-      "id": "39e1",
-      "title": "Camiseta"
-    },
-    {
-      "id": "f1dd",
-      "title": "mesa"
-    },
-    {
-      "id": "67a0",
-      "title": "caderno"
-    },
-    {
-      "id": "7976",
-      "title": "caneta"
-    }
-  ]
+  "products": []
 }
